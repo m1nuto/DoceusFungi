@@ -1,6 +1,7 @@
 # DoceusFungi
 
 This application is an attempt at building a scientific learning tool, which can currently be used to learn information regarding mushrooms.
+The tool is currently compiled for Windows, but may possibly function in a WINE environment, but doubtful.
 
 Please download both .001 and .002 into the same directory, and open .001 with 7zip archive manager, or some equivalent.
 
